@@ -1,6 +1,6 @@
 ## Project info
 
-**URL**: 
+**URL**: taskmanagement-sigma-five.vercel.app
 
 ## What technologies are used for this project?
 
