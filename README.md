@@ -1,3 +1,13 @@
 ## Project info
 
-**URL**: taskmanagement-sigma-five.vercel.app
+**URL**: 
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
